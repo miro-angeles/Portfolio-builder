@@ -12,4 +12,4 @@ python3 -m http.server 8000
 
 Then open <http://localhost:8000>.
 
-The appearance selector supports System, Light — Type R Redline, Dark — Cybernetic Noir, and the Film Neutral and Type R Dark Contrast test palettes.
+The appearance selector supports System, Light — Type R Redline, Dark — Film Neutral, and the Type R Dark Contrast test palette. System follows the device preference, using Type R Redline in light mode and Film Neutral in dark mode.

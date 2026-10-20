@@ -3,13 +3,13 @@ const themeStatus = document.querySelector("#theme-status");
 const themeColor = document.querySelector('meta[name="theme-color"]');
 const colorScheme = window.matchMedia("(prefers-color-scheme: dark)");
 const themeColors = {
-  light: "#f7f5ee",
+  light: "#f5f6f7",
   dark: "#101b20",
-  "ghost-test": "#f5f6f7",
+  "ghost-test": "#101b20",
   "type-r-redline": "#f5f6f7",
   "type-r-dark-contrast": "#11100e",
 };
-const themes = ["system", ...Object.keys(themeColors)];
+const themes = ["system", "type-r-redline", "ghost-test", "type-r-dark-contrast"];
 
 function isTheme(theme) {
   return themes.includes(theme);

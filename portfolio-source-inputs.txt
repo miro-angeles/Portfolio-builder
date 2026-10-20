@@ -1,0 +1,855 @@
+PORTFOLIO SOURCE INPUTS
+=======================
+
+Purpose
+-------
+Structured source-of-truth notes for developing Miro Angeles's portfolio.
+Compiled from five resume screenshots, two VP-promotion nomination screenshots,
+an August 2026 risk-focused resume (DOCX), and direct instructions supplied in
+the project conversation.
+
+This file is an evidence bank, not approved public website copy. Preserve the
+source's dates, role attribution, context, and uncertainty. Do not publish
+private contact details or potentially confidential employer operations data
+without a deliberate review.
+
+
+1. PORTFOLIO OWNER INSTRUCTIONS
+-------------------------------
+
+Preferred public name:
+  Miro Angeles
+
+Name instruction:
+  Use "Miro Angeles" in place of the legal name.
+
+Career coverage:
+  Aim for broad coverage of roles and professional themes supported by the
+  supplied evidence.
+
+Contact privacy:
+  Phone and email should remain private and must not appear on the public site.
+
+Evidence-bank instruction:
+  Use information extracted from the supplied images as a bank for experience
+  and achievements across the covered period. Later source entries may
+  strengthen existing skills, qualifications, and achievements. Compare each
+  new item with existing evidence: decide whether it is a duplicate, a
+  differently worded version of the same experience, or a genuine expansion
+  that adds scope, method, outcome, metric, or useful context. Merge
+  corroborating or additive detail into the existing entry; retain genuinely
+  distinct experiences separately; do not count reworded duplicates as new
+  achievements. Do not ask the owner to reconfirm facts already supplied
+  unless a material ambiguity or publication risk cannot be resolved.
+
+Certification clarification:
+  The resume image said the Certified Data Center Facilities Operations
+  Manager (CD-FOM) exam was scheduled for 1 October 2026. The owner later
+  confirmed it was successfully acquired on that date. Represent it as an
+  acquired certification, not a pending exam.
+
+Portfolio direction:
+  Executive-facing portfolio for senior recruiters, executive search, boards,
+  and C-suite decision-makers. Emphasize leadership scope, operational
+  ownership, evidence-based impact, and clear contact path. Use LinkedIn as
+  the public contact path; do not expose direct phone/email.
+
+Visual direction to date:
+  - Type R-inspired yellow/charcoal palette:
+      Background: #F7F5EE
+      Deep background: #eeeade
+      Charcoal: #292929
+      Deep charcoal: #171717
+      Phoenix yellow: #F5C400
+      Dark gold text accent: #745800
+  - A separate dark, blue-green/cyan "Cybernetic Noir" palette inspired by the
+    atmosphere of Ghost in the Shell:
+      Main background: #101B20
+      Secondary background: #17272D
+      Deep background: #081317
+      Deep teal: #10262B
+      Cyan accent: #62E2D8
+      Main text: #E5EFEE
+      Muted text: #ADBFBE
+  - The viewer can select System, Light, or Dark. System follows the device
+    preference; manual selection is available.
+  - A "Test — Film Neutral Palette" was also requested, using:
+      #2D3030, #D2D2CE, #4E5151, #F5F6F7, #0B0B0B, #929290
+    with red and green accents derived from the supplied Ghost in the Shell
+    reference still:
+      Dark green: #226B3A
+      Light green: #86DFA0
+      Dark red: #A12F2A
+      Light red: #FF8A7E
+  - The owner then requested six red/orange/yellow samples from a Honda Civic
+    Type R wallpaper as an additional palette test.
+    Reference image:
+      https://www.hdwallpapers.in/download/honda_civic_type_r_limited_edition_2020_4k_8k-HD.jpg
+    Six representative sampled colors, two per hue family:
+      Red: #972E21, #A5452A
+      Orange: #935D22, #D66928
+      Yellow: #CAA539, #CFAE4F
+    For the rendered test palette, the owner requested a brighter, less
+    mustard-like yellow treatment. Use #F5C400 as the main yellow and #FFD633
+    as the lighter yellow accent while retaining the sampled colors above as
+    reference values.
+
+
+2. PERSONAL / CONTACT DETAILS
+-----------------------------
+
+Public name:
+  Miro Angeles
+
+Location shown in resume:
+  Singapore
+
+Phone [PRIVATE — DO NOT PUBLISH]:
+  +65 9824 9685
+
+Email [PRIVATE — DO NOT PUBLISH]:
+  miro.angeles@gmail.com
+
+LinkedIn URL supplied in resume / portfolio:
+  https://www.linkedin.com/in/miro-angeles/
+
+Full legal name appeared in source resume but is intentionally excluded here
+because the owner explicitly requested "Miro Angeles" as the public name.
+
+
+3. CAREER SUMMARY (RESUME SOURCE)
+---------------------------------
+
+- Resume describes the owner as a Vice President with 17+ years of experience
+  in data centre operations, capacity management, operational readiness,
+  infrastructure governance, physical asset controls, and IT service
+  management within global banking environments.
+- Career progression described as command-centre and hands-on data-centre
+  operations into APAC leadership roles covering Singapore, Hong Kong,
+  South Korea, Indonesia, India, Japan, and Taiwan.
+- Experience includes steady-state data centre operations, operational
+  readiness and transition from build to operations, rack-level power and
+  environmental monitoring, vendor management, regulatory compliance,
+  decommission governance, incident investigation, and operational process
+  improvement.
+
+
+4. PROFESSIONAL EXPERIENCE (RESUME SOURCE)
+------------------------------------------
+
+JPMorgan Chase, N.A.
+  Vice President — Data Center Capacity & Placement, APAC
+  Singapore | October 2025–Present
+  - Lead APAC capacity and placement activities, balancing infrastructure
+    demand, rack availability, physical constraints, power requirements,
+    operational risk, and long-term capacity runway.
+  - Coordinate placement and readiness reviews with Engineering, Data Center
+    Operations, Technology Support, and business teams.
+  - Use AI-assisted workflows to improve capacity-data visibility and reduce
+    manual reporting.
+  - Review rack-level power trends and infrastructure constraints to support
+    placement, capacity planning, and reliable steady-state operations.
+
+JPMorgan Chase, N.A.
+  Vice President — Data Center Operations Manager, APAC
+  Singapore | February 2023–October 2025
+  - Led data-centre operations, governance, and operational readiness across
+    APAC, with operational ownership for South Korea and leadership support for
+    Singapore and Indonesia.
+  - Coordinated cross-functional response to escalations and service-impacting
+    events.
+  - Worked with Risk, Compliance, Engineering, and Operations to maintain
+    operational controls, regulatory compliance, audit records, and corrective
+    action tracking.
+  - Managed APAC logistics and physical asset controls covering receipt,
+    movement, inventory, storage, media handling, and disposition.
+  - Coordinated operational readiness reviews covering operational
+    dependencies, asset onboarding, workflow readiness, and transition into
+    steady-state operations.
+
+JPMorgan Chase, N.A.
+  Data Center Team Lead | Singapore
+  February 2018–January 2023
+  - Led operations supporting more than 3 MW of data-centre capacity.
+  - Covered incident reviews, change activities, infrastructure delivery,
+    vendor SLAs, maintenance coordination, and operational controls.
+  - Reviewed incident records and break/fix tickets for accuracy, completeness,
+    and adherence to operational logging standards.
+  - Served as technical escalation support for incident investigations, CRU
+    replacements, break/fix issues, and infrastructure troubleshooting.
+  - Coordinated cross-functional teams and vendors to resolve implementation
+    issues and maintain delivery schedules.
+  - Served as Global Decommission Process Service Owner; updated process
+    documentation, established control points, coordinated SME and Compliance
+    reviews, and re-engineered the Cable Mining subprocess.
+  - Led recurring operational and vendor reviews of CMDB tools, maintenance
+    schedules, process issues, infrastructure readiness, and follow-up actions.
+
+Fujitsu APAC Pte. Ltd. — on-site at UBS AG
+  Data Center Team Lead | Singapore
+  July 2015–February 2018
+  - Led site operations covering infrastructure implementation, incident
+    response, critical maintenance, IMACD delivery, vendor coordination, and
+    physical asset controls.
+  - Managed high-risk bi-annual M&E facility power-down activities, coordinating
+    cross-functional teams and vendors to reduce service risk.
+  - Coordinated vendors, engineering, and operations during infrastructure
+    issues, maintenance events, and service restoration.
+  - Maintained CMDB records and physical asset and media controls.
+
+Contract Data Center Consultant via Jobline Resource Pte. Ltd. to Fujitsu APAC
+Pte. Ltd. | Singapore
+  April 2012–June 2015
+  - Supported data-centre operations, incident resolution, IMACD activities,
+    and infrastructure deployments across server, storage, and network
+    platforms.
+  - Investigated infrastructure faults, performed hardware troubleshooting
+    and repairs, and worked with technical teams during service-impacting
+    incidents.
+  - Supported installation, maintenance, replacement, and upgrade activities
+    across enterprise infrastructure platforms.
+
+Bank of America Merrill Lynch
+  IT Analyst — Command Center Operations | Singapore
+  October 2009–March 2012
+  - Monitored IBM Mainframe z/OS, AS400, network, distributed server, and
+    critical financial platforms in a 24x7x365 command centre.
+  - Performed initial troubleshooting, incident logging, escalation, and
+    follow-through.
+  - Maintained operational visibility across platforms and escalated alerts
+    according to support procedures.
+
+Future Resource Technology
+  IT Consultant & Analyst | Philippines
+  December 2008–September 2009
+  - Provided IT consulting, systems analysis, workflow improvement, and
+    user-interface design services for client businesses.
+  - Assessed operational workflows and recommended technology and process
+    changes aligned with business requirements.
+
+eTelecare Global Solutions
+  Technical Support & Training Specialist | Philippines
+  February 2003–November 2008
+  - Progressed through frontline support, technical training, transition
+    support, and senior escalation roles supporting consumer and enterprise
+    computer hardware.
+  - Resolved complex hardware, operating-system, and software issues while
+    documenting cases and working within SLA requirements.
+  - Served as escalation resource for complex cases requiring investigation
+    and coordinated resolution.
+  - Developed training materials and readiness scorecards for new support
+    personnel.
+
+
+5. SELECTED ACHIEVEMENTS (RESUME SOURCE)
+----------------------------------------
+
+Operating model and command centre
+  - Led the transition from weekday monitoring coverage to a 24x7x365 Regional
+    Command Center operating model (Team Lead, 2022), moving from a five-day
+    double-day shift pattern to a continuous 24/7 Panama roster without
+    increasing headcount risk. Treat these descriptions as one experience.
+  - During the nomination source, additional context says this included a
+    rotation schedule, operating-model FAQ, runbooks, and escalation matrices
+    involving regional support teams.
+
+Deployments, readiness, and infrastructure delivery
+  - Delivered 34 ICPW rack deployments while maintaining 100% 2-Person
+    Verification compliance and zero overdue asset returns (Team Lead, 2023).
+  - Supported Amazon Cloud, Project Quantum, HK Data Center Exit, Sybase,
+    Solace, and decommission programmes.
+  - Supported Hyper-V, CDOT expansion, DCF SIMPL, Zoom, SG1 Day 5, eGIRO, Visa
+    migration, circuit extensions, WAP installation, and 10 ICPW roll-in racks.
+  - Supported SG1 SolidFire, SG2 ETI, Capital Tower power-down, CRU replacement,
+    media migration, and media destruction.
+  - Coordinated five simultaneous SG1 roll-in racks and SG2 ETI deliveries.
+  - Supported South Korea operational readiness, including Smarthands
+    onboarding, DCO tools/access, TAPS/DCOS workflow resolution, rack deployment
+    support, and operational handover at network go-live (VP Operations, 2025).
+  - Improved a new-data-centre build checklist using South Korea delivery
+    experience; added operational requirements for future projects.
+  - Conducted pre-install assessments, secured DCO approvals, and processed
+    workflows for Indonesia roll-in-rack deployments.
+  - Supported SG1 Day 5 readiness across WAP installation, corporate network
+    expansion, cabling, DCF SIMPL, access control, vendor dependencies, and DCO
+    requirements.
+  - Diagnosed a SolidFire management-connectivity issue and coordinated vendor,
+    project, and build teams on its resolution.
+  - Fujitsu role included server, storage, and network deployment, IMACD, fault
+    investigation, hardware repair, critical maintenance, and service
+    restoration.
+
+Capacity, power, and environmental monitoring
+  - In current capacity role, leads capacity and placement reviews considering
+    rack availability, power trends, physical constraints, operational risk,
+    and long-term capacity runway (November 2025–Present).
+  - Supported Vertiv IMD upgrades, including IP configuration,
+    monitoring-VLAN connectivity, TOR/EOR validation, and telemetry
+    troubleshooting (VP Operations, 2023–2025).
+  - Supported DCOS and Grafana power-telemetry integration, enabling real-time,
+    maximum, and average rack-level power trends.
+  - Deployed RFCode temperature sensors at selected cold-aisle locations to
+    improve thermal visibility.
+  - Resolved network-device airflow issues through recurring operational
+    reviews and follow-up actions.
+  - Supported Capital Tower annual power maintenance and post-maintenance
+    break/fix activities.
+  - Fujitsu Team Lead managed bi-annual M&E power-down events with technical
+    teams, facilities partners, and vendors.
+
+Migration, asset movement, and decommissioning
+  - Coordinated media migration from Capital Tower to SG1 and SG2, including
+    inventory validation, transfer tracking, reconciliation, and scheduled
+    handover.
+  - Supported HELIX Visa migration from EAS to DEX and eGIRO deployment
+    dependencies involving firewalls and HSMs.
+  - As Global Decommission Process Service Owner (2021–2024), updated
+    procedures, control points, ServiceNow templates, and governance
+    documentation.
+  - Re-engineered the Cable Mining subprocess and handed it to the Operations
+    Service Owner following Compliance guidance.
+  - Added Network Disconnect controls to the global Decommission service and
+    coordinated Compliance and Document Governance reviews (2024).
+  - Coordinated HK Data Center Exit voice-infrastructure work and multiple
+    decommission programmes (2023).
+
+Governance, risk, compliance, and audit readiness
+  - Led legal-entity segregation in China and South Korea, implementing room,
+    rack, key, naming, and labelling controls (VP Operations, 2025).
+  - Raised and tracked corrective actions from Indonesia operational
+    inspections to prevent repeat findings (VP Operations, 2025).
+  - Maintained 100% 2-Person Verification compliance and zero overdue asset
+    returns (Team Lead, 2023).
+  - Introduced APAC control monitoring that achieved 98% 2-Person Verification
+    compliance (Team Lead, 2021).
+  - Migrated global Decommission documents to the 2020 template and coordinated
+    reviews with SMEs and Compliance.
+  - Nomination source reports Singapore data-centre operations earned
+    Satisfactory Operational Inspection audit ratings in 2021 and 2022.
+  - Nomination source says the owner documented coaching, followed up on action
+    plans, and contributed to regional Train the Trainer sessions on
+    2-Person Verification.
+  - Nomination source says regional compliance metrics were monitored using
+    reports/data analytics.
+
+Asset lifecycle, inventory, logistics, and security
+  - Managed APAC storerooms, spares, warehouse tools, and inventory remediation
+    across China, India, Hong Kong, Singapore, and South Korea (2025).
+  - Established South Korea storeroom shelving and labelling practices and
+    shared inventory controls with ICDC teams (2025).
+  - Maintained 100% auditable inbound and outbound asset records and advanced
+    RFID-enabled inventory tracking in Singapore (2024–2025).
+  - Created an Excel validation template for data-centre media inventory during
+    inter-site migration (2018).
+  - Maintained CMDB, physical-asset, and media-control records (2015–2018).
+  - Coordinated security-system and Traka Cabinet installation and testing and
+    established DCO key controls for racks and media storage (2025).
+
+Incident, change, problem solving, and service management
+  - Became a go-to resource for incident-ticket investigations, HPSM task
+    logging, ticket hygiene, and break/fix documentation (2018).
+  - Reviewed tickets and coached team members on concise event logs,
+    informative emails, and clear business-chat updates (2018–2019).
+  - Completed ServiceNow train-the-trainer modules for Incident, Problem, and
+    Change Management and supported UAT transition activities (2020).
+  - Supported incident reviews, operational escalations, remediation tracking,
+    and change-control activities across APAC (2021–2025).
+  - At Bank of America Merrill Lynch, performed 24x7 command-centre monitoring,
+    initial troubleshooting, incident logging, escalation, and follow-through
+    (2009–2012).
+
+Vendor, stakeholder, and cross-functional leadership
+  - Onboarded 10 Smarthands staff with a colocation vendor, including photo-pass
+    and VDI requests (VP Operations, 2025).
+  - Coordinated SDWAN and Versa installation schedules, vendor cabling
+    diagrams, and local tools/access readiness (VP Operations, 2025).
+  - Led monthly vendor meetings covering CMDB tools, maintenance schedules,
+    operational issues, and readiness follow-ups (Team Lead, 2020).
+  - Coordinated LantroVision, WWT, network build, placement, instrumentation,
+    security, and facilities teams for SG1 Day 5 (Team Lead, 2020).
+  - Coordinated technical teams and vendors during M&E power-downs,
+    infrastructure issues, maintenance events, and recovery activities
+    (Fujitsu Team Lead, 2015–2018).
+  - Nomination source describes regional partnership across business requestors,
+    GTI product partners, facilities/real estate, engineering, and operations
+    for data-centre expansion and capacity demand.
+  - Nomination source describes service-review reporting used in partnership
+    meetings.
+
+Training, mentoring, and workforce development
+  - Coordinated CDCP training for more than 60 participants across APAC, EMEA,
+    and North America (VP Operations, 2025).
+  - Developed and delivered a four-week DCS service-procedure curriculum for
+    teams in Indonesia, South Korea, and Taiwan (VP Operations, 2025).
+  - Designed the Singapore ITE apprenticeship framework and localized
+    engineering curriculum; mentored the first cohort (Team Lead, 2022–2023).
+  - Nomination source describes a 2.5-year learning curriculum developed in
+    2021 for aspiring engineers to enter the data-centre industry.
+  - Nomination source says the owner mentored the first two apprentices, with
+    the goal of developing them into DCO engineers.
+  - Documented regional CRU identification and replacement guidance and
+    coached engineers on break/fix standards (Team Lead, 2018).
+  - Supported ServiceNow onboarding, role validation, data-quality checks, UAT
+    guidance, and local adoption (Team Lead, 2020).
+  - At eTelecare, developed technical training materials and readiness
+    scorecards for new support staff (2003–2008).
+  - Nomination source describes sharing lessons and industry best practice
+    with tenured engineers and new DCO members, including remote support
+    across sites.
+  - Nomination source describes identifying individual growth opportunities
+    and delegating skill-enhancing tasks.
+
+Operational transformation and reporting
+  - Led the shift from weekday monitoring to a 24x7x365 Regional Command Center
+    model (Team Lead, 2022).
+  - Introduced the Grafana Logistics Dashboard to APAC operations and performed
+    UAT on the Spare Parts tool (VP Operations, 2024).
+  - Used AI-assisted workflows to consolidate capacity information and reduce
+    manual reporting (VP Capacity, 2025–Present).
+  - Established ticket-hygiene monitoring and operational logging practices
+    aligned with management expectations (Team Lead, 2018).
+  - Established weekly issue-tracking meetings and daily management updates
+    during the pandemic to maintain operational stability (Team Lead, 2020).
+
+Community and sustainability contributions
+  - Singapore DCO team volunteering initiative to paint halfway homes
+    (nomination source, 2022).
+  - Co-presented an internal session on measuring an application's carbon
+    footprint during Singapore PowerUp Week (nomination source, 2022).
+  - Contributed to APAC People Priorities awareness on giving and receiving
+    feedback through a Speakers Corner session (nomination source, Q4 2022).
+
+
+6. NOMINATION FORM CONTEXT — HISTORICAL / INTERNAL SOURCE
+---------------------------------------------------------
+
+The two nomination screenshots are internal promotion materials. Treat their
+contents as confidential source evidence, not publication authorization.
+
+Candidate profile as stated in the nomination:
+  - Candidate name used in form: Miro Angeles.
+  - Candidate location: APAC/Singapore.
+  - Candidate job title: Operations Manager / Associate.
+  - People manager: Yes.
+  - Number of direct reports: 4.
+  - Manager of managers: No.
+  - Target promotion year: 2024.
+  - The form says tenure "as of YE 2022": 11 years total industry, 5 years at
+    JPMorgan Chase, current role 4+, and 4 years as Associate.
+  - These are historical form values. Do not treat as current tenure or use to
+    overwrite resume role dates.
+
+Regional scope and responsibilities as stated in nomination:
+  - Singapore data centres described as two colocation facilities and six data
+    halls, with the form citing 5.9 MW, six network fabrics, and approximately
+    30,000 square feet.
+  - The form describes Singapore DCO as operating 24x7 with four Operations
+    Managers partnering with GRE, GS, and line-of-business technical teams.
+  - Operations Manager responsibilities included resource and shift
+    management, mentoring Operations Engineers, planned maintenance/change and
+    incident response, local/regional return-to-service and stability across
+    five sites, after-hours support for APAC locations, and talent development.
+  - The source states the owner led the Singapore team with minimal supervision
+    and strong autonomy.
+  - The nomination describes responsibility for Singapore-site service
+    delivery, staff mentoring, and regional operational support.
+
+Business results and client/stakeholder focus as stated in nomination:
+  - Supported the move to the Singapore operating model.
+  - Implemented a 24x7 rotation schedule and helped build operating FAQs,
+    runbooks, and escalation matrices involving regional support teams.
+  - Reviewed/maintained PRIMe work orders and added information to regional
+    incidents.
+  - Re-engineered three decommission documents and two operational processes
+    and wrote an overarching decommission procedure.
+  - Developed an APAC four-box update guide and trained functional tower leads
+    (Strategy, Placement, DCO, Compliance) in regional data gathering to reduce
+    weekly reporting effort.
+  - Played a leading role in Singapore data-centre whitespace expansion,
+    partnering with GRE, GS, and DC Engineering; the source cites 11 new
+    colocation containments and more than 300 rack footprints.
+  - Worked with LOB requestors and GTI product partners on capacity demand and
+    clarifications.
+  - Nomination source gives historical operational workload figures including
+    about 90 incidents, 11 normal DCO changes per month, and 720 PRIMe work
+    orders. These figures may be sensitive and should not be published without
+    specific approval.
+  - Produced a service-review report for partnership meetings.
+
+Leadership and colleague feedback as stated in nomination:
+  - Feedback themes include growth mindset, technical knowledge of DCO
+    operations, clear communication, willingness to share knowledge, openness
+    to new approaches, partnership, and support for the team.
+  - Several named colleagues and verbatim individual comments appeared in the
+    source. Their identities and direct quotes are intentionally not reproduced
+    in this file; do not publish testimonials without permission.
+
+Additional contributions in nomination:
+  - Participated in the Singapore DCO GoodWorks volunteer initiative.
+  - Co-presented the carbon-footprint awareness session during PowerUp Week.
+  - Spoke about awareness of giving and receiving feedback through APAC People
+    Priorities / Speakers Corner in Q4 2022.
+
+Development feedback in nomination (historical, internal, not public portfolio
+content unless explicitly useful and approved):
+  - Suggested more leadership/management training.
+  - Suggested more regular DCS tools and process training for APAC DCO teams.
+
+Sensitive nomination identifiers:
+  - Candidate and manager SIDs appeared on the original form and are excluded.
+  - Manager's name appeared on the original form and is excluded.
+  - Colleague names/direct quotations are excluded.
+
+
+7. ACHIEVEMENT BANK BY THEME (RESUME SOURCE)
+--------------------------------------------
+
+Operational readiness, steady-state operations, and site transitions
+  - South Korea operational readiness: Smarthands onboarding, DCO tools/access,
+    TAPS/DCOS workflow resolution, rack deployment support, and RCC handover at
+    network go-live (2025).
+  - Improved a new-DC build checklist using South Korea delivery experience;
+    added missing operational requirements for future projects (2025).
+  - Conducted pre-install assessments, secured DCO approvals, and processed
+    workflows for Indonesia roll-in-rack deployments (2025).
+  - Supported SG1 Day 5 readiness across WAP installation, corporate network
+    expansion, cabling, DCF SIMPL, access control, vendor dependencies, and DCO
+    requirements (2020).
+  - Coordinated five simultaneous SG1 roll-in racks, keeping task trackers,
+    PRIME tickets, and operational handovers current (2018).
+  - Coordinated SG2 ETI deliveries and rack priorities for same-day racking and
+    completion (2018).
+
+Migration, asset movement, and decommissioning
+  - Coordinated media migration from Capital Tower to SG1 and SG2 with inventory
+    validation, transfer tracking, reconciliation, and scheduled handover
+    (2018).
+  - Supported HELIX Visa migration from EAS to DEX and eGIRO dependencies
+    involving firewalls and HSMs (2020).
+  - Global Decommission Process Service Owner, updating procedures, control
+    points, ServiceNow templates, and governance documentation (2021–2024).
+  - Re-engineered Cable Mining subprocess and transitioned it to Operations
+    Service Owner following Compliance guidance (2020).
+  - Coordinated HK Data Center Exit voice-infrastructure work and multiple
+    decommission programmes (2023).
+
+Governance, risk, compliance, and audit readiness
+  - Implemented legal-entity segregation controls in China and South Korea for
+    rooms, racks, keys, naming, and labelling (2025).
+  - Raised and tracked corrective actions from Indonesia operational
+    inspections to prevent repeat findings (2025).
+  - Added Network Disconnect controls to global Decommission service and
+    coordinated Compliance and Document Governance reviews (2024).
+  - Maintained 100% 2-Person Verification compliance and zero overdue asset
+    returns (2023).
+  - Maintained 100% alignment between physical configuration items and the
+    logical system of record, with zero exceptions (VP Operations, 2023–2025).
+  - Conducted step-by-step decommission control testing and annual physical
+    and logical inspections with Compliance; documented findings, performed
+    root-cause analysis, and tracked remediation (VP Operations, 2023–2025).
+  - Introduced APAC control monitoring that achieved 98% 2-Person Verification
+    compliance (2021).
+  - Migrated global Decommission documents to the 2020 template and coordinated
+    SME and Compliance reviews (2020).
+
+Asset lifecycle, inventory, logistics, and security
+  - Managed APAC storerooms, spares, warehouse tools, and inventory remediation
+    across China, India, Hong Kong, Singapore, and South Korea (2025).
+  - Established South Korea storeroom shelving/labelling practices and shared
+    inventory controls with ICDC teams (2025).
+  - Maintained 100% auditable inbound/outbound asset records and advanced
+    RFID-enabled inventory tracking in Singapore (2024–2025).
+  - Created an Excel validation template for data-centre media inventory
+    during inter-site migration (2018).
+  - Maintained CMDB, physical-asset, and media-control records (2015–2018).
+  - Maintained 100% physical-to-logical inventory alignment for tape media
+    and faulty storage devices; ensured faulty HDDs were electronically wiped
+    before disposal or return (Fujitsu Team Lead, 2015–2018).
+  - Reconciled physical media counts before data-centre egress as a data
+    security control (VP Operations, 2023–2025).
+  - Coordinated security systems and Traka Cabinet installation/testing and
+    established DCO key controls for racks and media storage (2025).
+
+Vendor, stakeholder, and cross-functional leadership
+  - Onboarded 10 Smarthands staff with a colocation vendor, including photo-pass
+    and VDI requests (2025).
+  - Coordinated SDWAN and Versa installation schedules, vendor cabling
+    diagrams, and local tools/access readiness (2025).
+  - Led monthly vendor meetings on CMDB tools, maintenance, operational issues,
+    and readiness follow-ups (2020).
+  - Coordinated LantroVision, WWT, network build, placement, instrumentation,
+    security, and facilities teams for SG1 Day 5 (2020).
+  - Coordinated technical teams and vendors during M&E power-downs,
+    infrastructure issues, maintenance events, and recovery (2015–2018).
+
+Training, mentoring, and workforce development
+  - Coordinated CDCP training for 60+ participants across APAC, EMEA, and North
+    America (2025).
+  - Developed/delivered a four-week DCS service-procedure curriculum for teams
+    in Indonesia, South Korea, and Taiwan (2025).
+  - Designed Singapore ITE apprenticeship framework and localized engineering
+    curriculum; mentored first cohort (2022–2023).
+  - Documented regional CRU identification/replacement guidance and coached
+    engineers on break/fix standards (2018).
+  - Supported ServiceNow onboarding, role validation, data-quality checks,
+    UAT guidance, and local adoption (2020).
+  - Developed technical training materials and readiness scorecards for new
+    support staff at eTelecare (2003–2008).
+
+Operational transformation, automation, and reporting
+  - Shifted weekday monitoring coverage to 24x7x365 Regional Command Center
+    model (2022).
+  - Introduced Grafana Logistics Dashboard to APAC operations and performed
+    UAT on Spare Parts tool (2024).
+  - Uses AI-assisted workflows to consolidate capacity information and reduce
+    manual reporting (2025–Present).
+  - Established ticket-hygiene monitoring and operational logging practices
+    aligned with management expectations (2018).
+  - Established weekly issue-tracking meetings and daily management updates
+    during the pandemic to maintain operational stability (2020).
+
+
+8. CORE COMPETENCIES (RESUME SOURCE)
+------------------------------------
+
+- Data Centre Operations: Steady-State Operations, Operational Readiness,
+  Build-to-Operations Transition, Site Support, Dispatch Governance, Service
+  Continuity, Critical Maintenance.
+- Capacity, Power & Environmental Monitoring: Capacity Planning, Rack-Level
+  Power Telemetry, Power Trend Analysis, Cold-Aisle Temperature Monitoring,
+  Airflow Review, Facility Readiness.
+- Data Centre Governance: Operating Standards, Operational Controls, Change
+  Control, Incident Investigation, Audit Readiness, Regulatory Compliance.
+- Asset Lifecycle & DCIM: Asset Onboarding, Inventory Reconciliation, RFID
+  Tracking, CMDB Governance, DCOS, Media Management, Secure Decommissioning.
+- Migration & Operational Transition: Inter-Data-Centre Asset Movement,
+  Infrastructure Transition, Operational Handover, Deployment Readiness,
+  BAU Acceptance.
+- Vendor & Team Management: Vendor Governance, SLA Reviews, Smarthands, Work
+  Assignment, Technical Training, Mentoring.
+- Infrastructure Support: Server, Storage and Network Platforms, IMACD,
+  Hardware Troubleshooting, CRU Replacement, Critical Maintenance.
+- Service Management & Tools: ITIL, ServiceNow ITSM, Incident Management, Root
+  Cause Analysis, Grafana, Centerscape, Workflow Automation, Reporting.
+
+Themes evidenced additionally in nomination:
+  People leadership; team coaching and feedback; shift/resource planning;
+  24x7 operating model; regional escalation/runbook design; operational
+  analytics; capacity expansion and stakeholder partnership; inclusion;
+  volunteering and sustainability.
+
+
+9. QUALIFICATIONS AND EDUCATION
+-------------------------------
+
+Certifications:
+  - Certified Data Center Facilities Operations Manager (CD-FOM), acquired
+    1 October 2026 (owner-confirmed).
+  - ITIL 4 Foundation, 2023.
+  - AWS Certified Cloud Practitioner, 2023.
+  - ITE Train the Trainer, 2022.
+  - Certified ScrumMaster, 2020.
+  - Certified Data Center Professional, 2019.
+  - ITIL v3 Foundation, 2010.
+
+Education:
+  Public display: BSc Information Technology · Beda College Alabang
+  (formerly St. Benedict College) · 2002
+  The owner notes the transcript is issued as San Beda College Alabang
+  (formerly St. Benedict College); omit this alternate document wording from
+  the public display.
+
+
+10. SOURCE / PUBLICATION NOTES
+------------------------------
+
+- Resume evidence was OCR'd from screenshots dated 9 October 2026.
+- Promotion nomination screenshots were dated 28 September 2026 but the
+  nomination content itself concerns historical performance, principally
+  through 2022 and a 2024 target promotion year.
+- One resume's "17+ years" summary and the dated career beginning in 2003 are
+  retained as source statements. For public portfolio wording, use the
+  owner-approved banking-specific tenure based on October 2009–present.
+- Some resume entries use internal acronyms (DCO, DCOS, DCS, DCF, ICPW, IMACD,
+  CRU, RCC, TAPS, HPSM, PRIME/PRIMe, ICDC, GTI, GRE, GS, LOB, ETI, EAS, DEX,
+  HSM, TOR/EOR). Expand only where the meaning is confirmed and appropriate.
+- Portfolio copy avoids the legal name, phone, email, nomination identifiers,
+  named colleague feedback, and unapproved internal facility/workload details.
+  The owner approved the specific metrics and methods listed in section 12.
+- Source existence does not itself grant permission to disclose employer,
+  client, colleague, facilities, or internal process information publicly.
+- Before publishing any sensitive accomplishment, prefer a generalized
+  description that preserves the owner's role and verified outcome without
+  exposing protected operational details.
+- Use industry-neutral lifecycle language such as "operational readiness,"
+  "transition from build to operations," and "steady-state operations."
+  Avoid "Day 2 operations," which the owner identified as terminology coined
+  in another company's job posting rather than a preferred general industry
+  term.
+
+
+11. ADDITIONAL RESUME EVIDENCE — RISK-FOCUSED RESUME
+----------------------------------------------------
+
+Source:
+  - "Miro Angeles - Aug 2026 - Risk.docx", received 16 October 2026.
+  - This is additional source evidence, not approved public copy. Merge
+    overlapping details with the existing experience and achievement bank;
+    do not treat repeated wording as a separate achievement.
+
+Career summary and competencies stated in this resume:
+  - Describes 17 years in mission-critical banking operations, emphasizing
+    technology risk, control design and operating effectiveness, resilience,
+    KRI monitoring, root-cause analysis, remediation, and governance reporting.
+  - Adds evidence for risk quantification, ServiceNow/CMDB traceability,
+    enterprise-authorized AI workflows, custom LLM-based automation, GitHub
+    Copilot, and predictive scripting. The resume says AI-generated outputs
+    are validated with data-sensitivity checks.
+
+Additional or more specific experience evidence:
+  - VP, Data Center Capacity (APAC): describes ServiceNow and CMDB evidence
+    capture for audit traceability; site-level runway analysis across Hong
+    Kong, Singapore, South Korea, Japan, and India; and validated
+    AI-assisted capacity workflows using enterprise-authorized capabilities
+    and GitHub Copilot.
+  - VP, Data Center Operations Manager (APAC): reports 100% alignment between
+    physical configuration items and the logical system of record, with zero
+    exceptions. Also describes step-by-step decommission control testing,
+    annual physical/logical compliance inspections with Compliance, workflow
+    log reviews, root-cause analysis, remediation, and risk-severity reporting.
+  - VP, Data Center Operations Manager (APAC): describes physical media
+    reconciliation to verify asset counts before data-centre egress as a data
+    security control.
+  - Data Center Team Lead: describes moving from a five-day double-day shift
+    pattern to a continuous 24/7 Panama roster without increasing headcount
+    risk. Owner confirmed this is the same operating-model transition already
+    recorded as the 24x7x365 Regional Command Center transition; do not count
+    it as a separate achievement.
+  - Fujitsu APAC Team Lead at UBS: reports 100% physical-to-logical inventory
+    alignment for tape media and faulty storage devices, electronic wiping of
+    faulty HDDs before disposal or return, and 24/7 critical incident response
+    during high-risk bi-annual facilities maintenance.
+  - Data Center Consultant: the owner confirmed this was a contract assignment
+    to Fujitsu APAC Pte. Ltd. through Jobline Resource Pte. Ltd.
+  - Bank of America Merrill Lynch: specifies monitoring IBM z/OS and AS400
+    platforms alongside distributed infrastructure.
+  - Concentrix / eTelecare: provides role progression as Technical Support
+    Representative (Feb 2003–Oct 2006), Transition Queue Trainer
+    (Oct 2006–Aug 2007), and Technical Support Representative III & Lead
+    (Sep 2007–Nov 2008). It also uses the company name "Concentrix (formerly
+    eTelecare Global Solutions)."
+
+Comparison with existing evidence — merge / duplicate assessment:
+  - Capacity role: placement, capacity runway, and AI-assisted reporting
+    reinforce existing capacity-role evidence. The five named core locations,
+    ServiceNow/CMDB audit traceability, and explicit human validation and
+    sensitivity checks add useful scope and method; fold these into the
+    existing capacity entry, not a new achievement.
+  - VP Operations controls: general governance, compliance, decommissioning,
+    remediation, and asset controls are already represented. The reported
+    100% physical-to-logical CI/SOR alignment with zero exceptions, explicit
+    step-by-step control testing, annual joint inspections, and physical-media
+    reconciliation add measurable or procedural specificity. They deepen the
+    existing controls story and are merged into it, not presented as several
+    overlapping claims.
+  - Team Lead roster: the Panama roster transition is likely the same
+    24x7x365 Regional Command Center operating-model change already recorded.
+    The resume adds the former five-day double-day pattern and says the
+    transition did not increase headcount risk. The owner confirmed they are
+    the same experience; merge as one achievement with richer context.
+  - Fujitsu asset/media controls: physical/logical inventory alignment and
+    media handling overlap existing asset-control duties. The reported 100%
+    tape/faulty-device alignment and electronic wiping before disposal or
+    return add a specific assurance method and data-protection outcome; fold
+    into that role's asset-controls evidence rather than repeating a generic
+    inventory achievement. The owner approved publication of these details.
+  - Facilities maintenance: bi-annual high-risk maintenance and vendor
+    coordination reinforce the existing M&E power-down evidence. The 24/7
+    response context adds detail but is not a separate accomplishment.
+  - Bank of America monitoring: z/OS and AS400 details substantiate the
+    existing command-centre platform-monitoring entry; no separate claim is
+    needed.
+  - Career progression: the owner confirmed the consultant role was a
+    contract assignment to Fujitsu through Jobline Resource Pte. Ltd. Use the
+    timeline wording "Contract Data Center Consultant via Jobline Resource
+    Pte. Ltd." under Fujitsu APAC Pte. Ltd. The Concentrix/eTelecare
+    progression adds role detail to the existing career entry; it is a
+    career-history refinement, not a new achievement.
+  - Risk terminology and tools: KRI monitoring, risk quantification, control
+    effectiveness, ServiceNow/CMDB traceability, AI-assisted scripting, and
+    data-sensitivity validation strengthen the existing competency profile.
+    Treat as supporting themes, not standalone outcomes absent a distinct
+    verified result.
+
+Additional skills and qualifications stated in this resume:
+  - Technology risk, control design/effectiveness, evidence collection,
+    regulatory alignment, remediation, and operational resilience.
+  - ServiceNow ITSM workflows, CMDB integrity, incident lifecycle tracking,
+    AI prompt engineering, reporting automation, and data-protection
+    thresholds.
+  - Lists CD-FOM completion as September 2026; existing owner-confirmed
+    qualification record says it was acquired on 1 October 2026.
+  - Lists education as BS in Information Technology, Beda College Alabang
+    (formerly St. Benedict College), 2002; existing record uses San Beda
+    College Alabang, Philippines.
+
+Items to reconcile before changing established dates, titles, or public copy:
+  - Resolved by owner: use October 2025 as the start of the current VP,
+    Data Center Capacity & Placement role and the end of the VP, Data Center
+    Operations Manager role. Use the full title "Data Center Capacity &
+    Placement, APAC."
+  - Resolved by owner: present tenure as 17 years in banking technology,
+    based on October 2009–present, rather than a broader overall-career claim.
+  - Resolved by owner: use the CD-FOM acquisition date of 1 October 2026 and
+    the education wording in section 9.
+  - Resolved by owner: publish the specific metrics and methods in section
+    12, keeping them attributed to the relevant role and without unsupported
+    extensions.
+
+12. OWNER-CONFIRMED UPDATES AND PUBLICATION APPROVALS
+-----------------------------------------------------
+
+- Dates: current VP, Data Center Capacity & Placement, APAC began October
+  2025; VP, Data Center Operations Manager, APAC ended October 2025.
+- Current title: Vice President — Data Center Capacity & Placement, APAC.
+- Consultant engagement: contract Data Center Consultant assigned to Fujitsu
+  APAC Pte. Ltd. through Jobline Resource Pte. Ltd. Preferred concise public
+  wording: "Contract Data Center Consultant via Jobline Resource Pte. Ltd."
+- Operating model: the five-day double-day to continuous 24/7 Panama roster
+  transition and the Regional Command Center transition are the same
+  experience. Publish as one achievement, including the stated
+  no-increase-in-headcount-risk context.
+- Education: use the owner-approved public wording exactly:
+  "BSc Information Technology · Beda College Alabang (formerly St. Benedict
+  College) · 2002". Do not append the transcript's alternate institution
+  wording to the public display.
+- Banking tenure: banking industry experience begins October 2009 and
+  continues to present. As of October 2026, use "17 years in banking
+  technology" or the evergreen wording "banking technology experience since
+  October 2009." Do not conflate this with total career experience beginning
+  in 2003.
+- Owner approved "M" (publish with the stated metric/detail) for all six
+  items:
+  1. 100% physical-to-logical configuration alignment with zero exceptions.
+  2. 100% tape-media/faulty-device inventory alignment and electronic wiping
+     of faulty HDDs before disposal or return.
+  3. Physical-media reconciliation before data-centre egress.
+  4. Step-by-step decommission control testing and annual physical/logical
+     compliance inspections.
+  5. APAC capacity analysis naming Hong Kong, Singapore, South Korea, Japan,
+     and India.
+  6. Enterprise-authorized AI/custom LLM workflows, GitHub Copilot, and
+     output/data-sensitivity validation.
+
+13. PERSONAL INTEREST — SIM RACING
+----------------------------------
+
+- The owner supplied a LinkedIn draft about applying data-centre systems
+  thinking to a personal Gran Turismo 7 sim-racing setup and requested a short
+  About section that connects personal and professional identity.
+- Public copy may describe the interest in building/refining the setup and
+  experimenting with space/layout, cable organization, power and heat,
+  telemetry, and tactile feedback.
+- Keep this as a personal-interest bridge, not a work accomplishment.
+  Generalize technical analogies and omit detailed hardware/performance claims
+  unless separately confirmed and needed.
