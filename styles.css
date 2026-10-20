@@ -1103,7 +1103,7 @@ h2 em {
   --muted: #4e5151;
   --carbon: #2d3030;
   --carbon-dark: #0b0b0b;
-  --yellow: #cfae4f;
+  --yellow: #ffd633;
   --yellow-ink: #972e21;
   --line: #929290;
   --line-dark: #4e5151;
@@ -1113,8 +1113,8 @@ h2 em {
   --orbit-line: #929290;
   --orbit-line-soft: #b0b0ad;
   --orbit-line-faint: #c3c3c0;
-  --orbit-copy: #2d3030;
-  --contact-surface: #d66928;
+  --orbit-copy: #972e21;
+  --contact-surface: #e87516;
   --contact-copy: #0b0b0b;
   --contact-muted: #2d3030;
   --credentials-line: #929290;
@@ -1123,8 +1123,8 @@ h2 em {
   --accent-red-light: #a5452a;
   --accent-orange: #935d22;
   --accent-orange-light: #d66928;
-  --accent-yellow: #caa539;
-  --accent-yellow-light: #cfae4f;
+  --accent-yellow: #f5c400;
+  --accent-yellow-light: #ffd633;
 }
 
 :root[data-theme="type-r-redline"] h1 em,
@@ -1160,5 +1160,73 @@ h2 em {
 }
 
 :root[data-theme="type-r-redline"] .impact-index span {
+  color: var(--accent-orange-light);
+}
+
+:root[data-theme="type-r-dark-contrast"] {
+  color-scheme: dark;
+  --paper: #11100e;
+  --paper-deep: #201d18;
+  --ink: #fff9ed;
+  --muted: #d6cbb8;
+  --carbon: #28231c;
+  --carbon-dark: #090807;
+  --yellow: #ffd633;
+  --yellow-ink: #ffd633;
+  --line: #716655;
+  --line-dark: #98876d;
+  --dark-copy: #fff1d7;
+  --dark-muted: #e0d1b7;
+  --orbit-surface: #292219;
+  --orbit-line: #a48242;
+  --orbit-line-soft: #826d49;
+  --orbit-line-faint: #675a42;
+  --orbit-copy: #972e21;
+  --contact-surface: #45271d;
+  --contact-copy: #fff5e9;
+  --contact-muted: #f1d8c5;
+  --credentials-line: #716655;
+  --credentials-copy: #fff1d7;
+  --accent-red: #ff8066;
+  --accent-red-light: #ff9a73;
+  --accent-orange: #ffb27f;
+  --accent-orange-light: #ff9a73;
+  --accent-yellow: #ffd633;
+  --accent-yellow-light: #ffd633;
+}
+
+:root[data-theme="type-r-dark-contrast"] h1 em,
+:root[data-theme="type-r-dark-contrast"] .career-intro h2 em,
+:root[data-theme="type-r-dark-contrast"] .contact-inner h2 em {
+  color: var(--accent-red);
+}
+
+:root[data-theme="type-r-dark-contrast"] .wordmark span,
+:root[data-theme="type-r-dark-contrast"] .site-header nav a:hover,
+:root[data-theme="type-r-dark-contrast"] .text-link:hover,
+:root[data-theme="type-r-dark-contrast"] .site-footer > a:last-child:hover {
+  color: var(--accent-red-light);
+}
+
+:root[data-theme="type-r-dark-contrast"] .card-number,
+:root[data-theme="type-r-dark-contrast"] .timeline-year,
+:root[data-theme="type-r-dark-contrast"] .role-fit {
+  color: var(--accent-orange);
+}
+
+:root[data-theme="type-r-dark-contrast"] .status-dot {
+  background: var(--accent-orange-light);
+}
+
+:root[data-theme="type-r-dark-contrast"] .hero-aside::before {
+  background: var(--accent-yellow);
+}
+
+:root[data-theme="type-r-dark-contrast"] .heading-light h2 em,
+:root[data-theme="type-r-dark-contrast"] .impact-index {
+  color: var(--accent-yellow-light);
+}
+
+:root[data-theme="type-r-dark-contrast"] .impact-index span {
   color: var(--accent-orange-light);
 }

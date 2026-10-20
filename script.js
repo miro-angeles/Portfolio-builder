@@ -7,6 +7,7 @@ const themeColors = {
   dark: "#101b20",
   "ghost-test": "#f5f6f7",
   "type-r-redline": "#f5f6f7",
+  "type-r-dark-contrast": "#11100e",
 };
 const themes = ["system", ...Object.keys(themeColors)];
 
